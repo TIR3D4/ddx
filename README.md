@@ -7,8 +7,8 @@ This is a script that allows the user to run multiple types of DDoS attacks such
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/stormer.git
-    cd stormer
+    git clone https://github.com/TIR3D4/ddx.git
+    cd ddx
     ```
 
 2. Make the `install.sh` script executable and run it to install the required tools:
