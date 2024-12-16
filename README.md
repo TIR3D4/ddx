@@ -19,7 +19,6 @@ This is a script that allows the user to run multiple types of DDoS attacks such
 
 3. Run the attack script:
     ```bash
-    screen -S dd
     chmod +x attack.sh
     ./attack.sh
     ```
